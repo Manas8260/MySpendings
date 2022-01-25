@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/MANAS Android Projects/My Spendings/app/src/main/res/drawable-v24/textbg.xml" value="0.1" />
-        <entry key="..\:/MANAS Android Projects/My Spendings/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/MANAS Android Projects/My Spendings/app/src/main/res/layout/activity_login.xml" value="0.20833333333333334" />
+        <entry key="..\:/MANAS Android Projects/My Spendings/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/MANAS Android Projects/My Spendings/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/MANAS Android Projects/My Spendings/app/src/main/res/layout/activity_splash.xml" value="0.20833333333333334" />
         <entry key="..\:/MANAS Android Projects/My Spendings/app/src/main/res/layout/activity_watch_class.xml" value="0.176" />
         <entry key="..\:/MANAS Android Projects/My Spendings/app/src/main/res/layout/list_item.xml" value="0.1" />
       </map>

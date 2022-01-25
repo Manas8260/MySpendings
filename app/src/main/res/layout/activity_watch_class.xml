@@ -42,9 +42,9 @@
         android:id="@+id/total_text"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:layout_marginTop="20dp"
-        android:layout_marginHorizontal="30dp"
         android:layout_below="@id/list"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="20dp"
         android:textSize="20dp" />
 
 
